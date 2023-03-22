@@ -1,4 +1,4 @@
-def suma(int a, int b):
+def suma(double a, double b):
   suma =  a+b
-  return suma
+  return str(suma)
   
